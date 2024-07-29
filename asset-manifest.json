@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Website/static/css/main.62d494b5.css",
+    "main.js": "/React-Website/static/js/main.99d8a090.js",
+    "static/js/592.242c6abb.chunk.js": "/React-Website/static/js/592.242c6abb.chunk.js",
+    "static/media/Virat.png": "/React-Website/static/media/Virat.edbf48649dbe019b2937.png",
+    "static/media/Portfolio.png": "/React-Website/static/media/Portfolio.0bd9f08572d3831e952e.png",
+    "index.html": "/React-Website/index.html",
+    "main.62d494b5.css.map": "/React-Website/static/css/main.62d494b5.css.map",
+    "main.99d8a090.js.map": "/React-Website/static/js/main.99d8a090.js.map",
+    "592.242c6abb.chunk.js.map": "/React-Website/static/js/592.242c6abb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62d494b5.css",
+    "static/js/main.99d8a090.js"
+  ]
+}
